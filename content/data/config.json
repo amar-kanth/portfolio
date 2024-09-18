@@ -27,14 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "linkedin",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://x.com/amarkanth26",
