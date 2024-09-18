@@ -13,9 +13,14 @@ sections:
   - type: HeroSection
     title: 'I’m a Data Scientist, Machine Learning Enthusiast, and Problem Solver.'
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info—I am Amar Kanth V, a passionate Data Scientist with a
+      strong foundation in Computer Science and Engineering, specializing in
+      Data Science. I hold a Bachelor of Technology degree from Kalasalingam
+      Academy of Research and Education. My journey in data science has been
+      driven by a deep curiosity and a commitment to leveraging data to solve
+      real-world problems. I have earned an IBM Data Science Graduate
+      Certificate and an IBM Data Science Badge, recognizing my proficiency in
+      key data science tools and techniques.
     actions:
       - type: Button
         label: Hire me
