@@ -37,7 +37,7 @@ sections:
       caption: Caption of the image
       elementId: ''
       url: /images/amar_pic.png
-    colors: colors-c
+    colors: colors-b
     backgroundSize: full
     elementId: ''
     styles:
