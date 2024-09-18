@@ -33,6 +33,7 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: ''
+      url: /images/amar_pic.png
     colors: colors-c
     backgroundSize: full
     elementId: ''
