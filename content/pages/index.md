@@ -10,56 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: HeroSection
-    title: 'I’m a Data Scientist, Machine Learning Enthusiast, and Problem Solver.'
-    subtitle: >-
-      This is my info—I am Amar Kanth V, a passionate Data Scientist with a
-      strong foundation in Computer Science and Engineering, specializing in
-      Data Science. I hold a Bachelor of Technology degree from Kalasalingam
-      Academy of Research and Education. My journey in data science has been
-      driven by a deep curiosity and a commitment to leveraging data to solve
-      real-world problems. I have earned an IBM Data Science Graduate
-      Certificate and an IBM Data Science Badge, recognizing my proficiency in
-      key data science tools and techniques.
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-      url: /images/amar_pic.png
-    colors: colors-b
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - elementId: ''
     colors: colors-f
     backgroundSize: full
