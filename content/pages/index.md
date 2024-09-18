@@ -12,8 +12,8 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a Data Scientist, Software Development Engineer, Machine Learning
+      Enthusiast, and Problem Solver.
     subtitle: >-
       This is my info—I am Amar Kanth V, a passionate Data Scientist with a
       strong foundation in Computer Science and Engineering, specializing in
